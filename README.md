@@ -5,6 +5,7 @@ This project analyzes the performance of two marketing campaigns - Campaign A an
 
 The goal is to make a data-backed business decision rather than relying on assumptions, just like real analytics consulting projects.
 
+
 **🎯 Objectives**
 
 Compare the performance of Campaign A vs. B
@@ -14,6 +15,7 @@ Measure Click-Through Rate (CTR) and Purchase Revenue
 Use statistical testing to check if differences are significant
 
 Provide business recommendations based on evidence
+
 
 **📌 Key Findings**
 Metric	          Campaign A	Campaign B
@@ -25,6 +27,7 @@ Conclusion:
 ✔ Campaign A performs significantly better
 ✔ It should receive higher marketing budget
 ✔ Campaign B may need personalization and retesting
+
 
 **🔍 What I Did**
 
@@ -38,6 +41,7 @@ Simple dashboards to visualise performance
 
 Final recommendations for stakeholders
 
+
 **📉 Business Impact**
 
 This helps decision-makers:
@@ -49,6 +53,7 @@ Avoid spending money on weak campaigns
 Focus on high-performing strategies
 
 Improve ROI using data-driven decisions
+
 
 **🧭 Possible Next Steps**
 
