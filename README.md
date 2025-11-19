@@ -1,9 +1,9 @@
 **📊 Marketing A/B Testing – Data-Driven Campaign Analytics**
 **🧠 Project Insight**
 
-This project analyzes the performance of two marketing campaigns — Campaign A and Campaign B — to determine which one performs better in terms of customer engagement and revenue.
+This project analyzes the performance of two marketing campaigns - Campaign A and Campaign B to determine which one performs better in terms of customer engagement and revenue.
 
-The goal is to make a data-backed business decision rather than relying on assumptions — just like real analytics consulting projects.
+The goal is to make a data-backed business decision rather than relying on assumptions, just like real analytics consulting projects.
 
 **🎯 Objectives**
 
